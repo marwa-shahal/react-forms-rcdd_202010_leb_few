@@ -7,7 +7,6 @@ import ParentComponent from './components/ParentComponent'
 ReactDOM.render(
   <div>
     <ParentComponent />
-
   </div>,
   document.getElementById('root')
 );
