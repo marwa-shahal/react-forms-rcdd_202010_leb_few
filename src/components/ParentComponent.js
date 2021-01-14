@@ -37,6 +37,20 @@ class ParentComponent extends React.Component {
       <DisplayData formData={this.state} />
     )
   }
+  
+  
+  
+  //   render() {
+  //   return (
+  //     <div>
+  //       <Form
+  //         formData={this.state}
+  //         handleChange={this.handleChange}
+  //       />
+  //       <DisplayData formData={this.state} />
+  //     </div>
+  //   )
+  // }
 }
  
 export default ParentComponent;
